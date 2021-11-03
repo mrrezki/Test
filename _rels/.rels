@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
-  <Relationship Type="http://schemas.microsoft.com/packaging/2010/07/manifest" Target="/ExcelDna.AddIn.nuspec" Id="R3fb19caef03243ae" />
-  <Relationship Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="/package/services/metadata/core-properties/37301552f1554d048fe3870c2a31edad.psmdcp" Id="R5d6387e1081142b8" />
-</Relationships>
